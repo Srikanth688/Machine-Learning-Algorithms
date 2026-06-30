@@ -42,17 +42,3 @@ Machine-Learning-Algorithms/
 ## Installation
 1. Clone the repository:
 git clone https://github.com/your-username/Machine-Learning-Algorithms.git
-Results
-
-The algorithms are evaluated using metrics such as:
-Accuracy
-Precision
-Recall
-F1-Score
-Mean Squared Error (MSE)
-R² Score
-Future Improvements
-Hyperparameter Tuning
-Deep Learning Models
-Model Deployment using Flask/Streamlit
-Cross Validation and Optimization
