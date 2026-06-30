@@ -41,4 +41,4 @@ Machine-Learning-Algorithms/
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/Machine-Learning-Algorithms.git
+git clone https://github.com/Srikanth688/Machine-Learning-Algorithms.git
